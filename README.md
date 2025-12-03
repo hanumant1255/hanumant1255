@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanumant Shinde
 - 👀 I’m interested in product development
-- 💞️ I’m looking to collaborate on cloud application developed using java
+- 💞️ I’m looking to collaborate on AI/ML applicaion development 
 - 📫 You can reach me at hanumant.shinde811@gmail.com
 
 <!---
